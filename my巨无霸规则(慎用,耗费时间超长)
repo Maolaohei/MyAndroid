@@ -4581,8 +4581,6 @@ com.jianshu.haruki/com.igexin.sdk.PushReceiver
 com.netease.uu/com.xiaomi.push.service.XMPushService
 com.netease.uu/com.netease.inner.pushclient.huawei.MessageReceiver
 com.netease.uu/com.huawei.android.pushagent.PushEventReceiver
-bin.xposed.Unblock163MusicClient/bin.xposed.Unblock163MusicClient.ui.SettingsActivityAlias
-com.oasisfeng.greenify/com.oasisfeng.greenify.notification.NotificationListenerDelegate
 com.miHoYo.bh3rdJP/tieba.baidu.com.tiebasharesdk.TbShareWebviewActivity
 com.miHoYo.bh3rdJP/cn.jpush.android.ui.PushActivity
 com.miHoYo.bh3rdJP/cn.jpush.android.service.DaemonService
